@@ -1,0 +1,606 @@
+@media screen and (max-width: 1500px) {
+
+  .flex-container-1 {
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-2 {
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-3 {
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: -80px;
+  }
+
+  .flex-item {
+   margin-bottom: 50px;
+  }
+
+  .null-podval {
+    width: 800px;
+  }
+
+  .tel {
+    margin-left: 20px;
+  }
+
+}
+
+@media screen and (max-width: 1370px) {
+  
+  .flex-container-1 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-2 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-3 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-item {
+    width: 300px;
+  }
+
+  .punkt-menu1 {
+    background-position-x: -200px;
+  }
+  
+  .punkt-menu2 {
+    background-position-x: -140px;
+  }
+  
+  .punkt-menu3 {
+    background-position-x: -135px;
+  }
+
+  .punkt-menu4 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -105px;
+    background-position-y: -10px
+  }
+
+  .punkt-menu5 {
+    background-position-x: -50px;
+  }
+  
+  .punkt-menu6 {
+    background-position-x: -130px;
+  }
+  
+  .punkt-menu7 {
+    background-position-x: -140px;
+  }
+  
+  .punkt-menu8 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -105px;
+    background-position-y: -10px
+  }
+  
+  .punkt-menu9 {
+    background-position-x: -170px;
+  }
+  
+  .punkt-menu10 {
+    background-position-x: -550px;
+  }
+  
+  .punkt-menu11 {
+    background-position-x: -140px;
+  }
+  
+  .punkt-menu12 {
+    width: 800px;
+    height: 600px;
+    background-size: 800px;
+    background-position-x: -5px;
+    background-position-y: -30px
+  }
+
+  .delenie4 {
+    margin-top: 495px;
+  }
+
+  .delenie8 {
+    margin-top: 495px;
+  }
+
+  .delenie12 {
+    margin-top: 495px;
+  }
+
+}
+
+@media screen and (max-width: 1330px) {
+  
+  .flex-container-1 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-2 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-3 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+
+  .flex-item {
+    width: 300px;
+    height: 500px;
+  }
+
+  .punkt-menu1 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -105px;
+    background-position-y: 0px
+  }
+  
+  .punkt-menu2 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -85px;
+    background-position-y: -5px
+  }
+  
+  .punkt-menu3 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -95px;
+    background-position-y: -5px
+  }
+
+  .punkt-menu4 {
+    width: 800px;
+    height: 600px;
+    background-size: 1100px;
+    background-position-x: -305px;
+    background-position-y: -10px
+  }
+
+  .punkt-menu5 {
+    width: 800px;
+    height: 600px;
+    background-size: 795px;
+    background-position-x: -1px;
+    background-position-y: -125px
+  }
+  
+  .punkt-menu6 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -45px;
+    background-position-y: 0px
+  }
+  
+  .punkt-menu7 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -45px;
+    background-position-y: -5px
+  }
+  
+  .punkt-menu8 {
+    width: 800px;
+    height: 600px;
+    background-size: 1100px;
+    background-position-x: -185px;
+    background-position-y: -10px
+  }
+  
+  .punkt-menu9 {
+    width: 800px;
+    height: 600px;
+    background-size: 900px;
+    background-position-x: -105px;
+    background-position-y: -40px
+  }
+  
+  .punkt-menu10 {
+    width: 800px;
+    height: 600px;
+    background-size: 1300px;
+    background-position-x: -505px;
+    background-position-y: 0px
+  }
+  
+  .punkt-menu11 {
+    width: 800px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 900px;
+    background-position-x: -45px;
+    background-position-y: -5px
+  }
+  
+  .punkt-menu12 {
+    background-image: url(../img/bludo-12.jpg);
+    width: 800px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 1050px;
+    background-position-x: -150px;
+    background-position-y: -80px
+  }
+
+  .delenie1 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie2 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie3 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie4 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie5 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie6 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie7 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie8 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie9 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie10 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie11 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .delenie12 {
+    margin-top: 495px;
+    border: none
+  }
+
+  .text-opisanie {
+    display: none;
+  }
+
+  .null-podval {
+    width: 600px;
+  }
+
+  .tel {
+    margin-left: 5px;
+  }
+
+  .navigation-podval {
+    margin-left: 50px;
+  }
+
+}
+
+@media screen and (max-width: 1200px) {
+
+  .flex-container-1 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-2 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-3 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .punkt-menu1 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu2 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu3 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu4 {
+    width: 600px;
+    height: 400px;
+    background-size: 750px;
+    background-position-x: -125px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu5 {
+    width: 600px;
+    height: 400px;
+    background-size: 595px;
+    background-position-x: 0px;
+    background-position-y: -105px
+  }
+
+  .punkt-menu6 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu7 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+  
+  .punkt-menu8 {
+    width: 600px;
+    height: 400px;
+    background-size: 750px;
+    background-position-x: -50px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu9 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+  
+  .punkt-menu10 {
+    width: 600px;
+    height: 400px;
+    background-size: 870px;
+    background-position-x: -275px;
+    background-position-y: 0px
+  }
+
+  .punkt-menu11 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+  
+  .punkt-menu12 {
+    width: 600px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -5px;
+    background-position-y: -15px
+  }
+
+  .null-header {
+    display: none;
+  }
+
+  .null-podval {
+    display: none;
+  }
+
+  .navigation-podval {
+    width: 380px;
+    margin-left: 170px;
+  }
+
+}
+
+@media screen and (max-width: 1025px) {
+
+  .flex-container-1 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-2 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .flex-container-3 {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -80px;
+  }
+
+  .punkt-menu1 {
+    width: 450px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -165px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu2 {
+    width: 450px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -90px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu3 {
+    width: 450px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -100px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu4 {
+    width: 450px;
+    height: 400px;
+    background-size: 750px;
+    background-position-x: -255px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu5 {
+    width: 450px;
+    height: 400px;
+    background-size: 505px;
+    background-position-x: -30px;
+    background-position-y: -75px
+  }
+
+  .punkt-menu6 {
+    width: 450px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -90px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu7 {
+    width: 450px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -110px;
+    background-position-y: -15px
+  }
+  
+  .punkt-menu8 {
+    width: 450px;
+    height: 400px;
+    background-size: 750px;
+    background-position-x: -170px;
+    background-position-y: -15px
+  }
+
+  .punkt-menu9 {
+    width: 450px;
+    height: 400px;;
+    background-size: 550px;
+    background-position-x: -90px;
+    background-position-y: -10px
+  }
+  
+  .punkt-menu10 {
+    width: 450px;
+    height: 400px;
+    background-size: 870px;
+    background-position-x: -425px;
+    background-position-y: 0px
+  }
+
+  .punkt-menu11 {
+    width: 450px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -100px;
+    background-position-y: -15px
+  }
+  
+  .punkt-menu12 {
+    width: 450px;
+    height: 400px;
+    background-size: 650px;
+    background-position-x: -120px;
+    background-position-y: -15px
+  }
+
+  .restorant {
+    font-size: 70px; 
+  }
+  
+  .navigation-header {
+    margin-top: 40px;
+  }
+
+  .navigation-podval {
+    padding-top: 30px;
+    width: 380px;
+    margin-left: 20px;
+  }
+
+  .a-podval {
+    font-size: 30px; 
+  }
+
+  .tel {
+    font-size: 15px;
+    padding-top: 39px;
+  }
+
+}
